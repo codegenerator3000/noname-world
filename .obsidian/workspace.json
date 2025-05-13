@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "cf1d688bfd43f4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff7731daaae9b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5d08414b5e4276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f4b51e137e32f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d256573f2f3b0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f0989ece4973e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4bb0de248267b5c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "70d848a0e284b070",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ffed84ff02fabec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b43c433cf62cd2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "057c738a17de519a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "a4d8c329a26096d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "0cc47359ed69d185",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7ddf2254b10e7d09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          },
+          {
+            "id": "2abdc4e3a67df0a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc5d08414b5e4276",
+  "lastOpenFiles": [
+    "артефакты/Шаблон.md",
+    "классы/Шаблон-подкласс.md",
+    "классы/Шаблон-класс.md",
+    "README.md",
+    "артефакты",
+    "события/Смерть Кея.md",
+    "локации/Центральный материк/Центральный материк.md",
+    "расы/Шаблон.md",
+    "локации/Шаблон-королевство.md",
+    "локации/Шаблон-материк.md",
+    "локации/Центральный материк/Восточные королевства/Королевство Ведалия.md",
+    "locations/Без названия.md",
+    "персонажи/Шаблон.md",
+    "локации/Карта 4 материков.wonderdraft_map",
+    "классы",
+    "расы",
+    "characters/Без названия",
+    "characters/races",
+    "локации/Центральный материк/Восточные королевства",
+    "локации/Центральный материк",
+    "события",
+    "персонажи",
+    "Добро пожаловать.md"
+  ]
+}
